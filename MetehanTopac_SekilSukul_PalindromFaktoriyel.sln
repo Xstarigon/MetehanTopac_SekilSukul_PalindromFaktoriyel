@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetehanTopac_SekilSukul_PalindromFaktoriyel", "MetehanTopac_SekilSukul_PalindromFaktoriyel\MetehanTopac_SekilSukul_PalindromFaktoriyel.csproj", "{FA15696A-EF21-4615-8E31-14B6B0371B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA15696A-EF21-4615-8E31-14B6B0371B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA15696A-EF21-4615-8E31-14B6B0371B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA15696A-EF21-4615-8E31-14B6B0371B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA15696A-EF21-4615-8E31-14B6B0371B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A203C692-BA35-4B9B-A939-398BD772F1CF}
+	EndGlobalSection
+EndGlobal
